@@ -10,8 +10,6 @@ NRC: 10067
 
 2. MARCO TEÓRICO:
 
-![1](https://user-images.githubusercontent.com/117767335/203860285-44a88965-8853-409b-b67d-be520b932aec.png)
-
 ![2](https://user-images.githubusercontent.com/117767335/203860286-26cbf6b6-460e-494a-a5ce-16a09638adc2.png)
 
 ![3](https://user-images.githubusercontent.com/117767335/203860287-e9a2b355-9f53-47f9-b717-6be7ca846bdb.png)
