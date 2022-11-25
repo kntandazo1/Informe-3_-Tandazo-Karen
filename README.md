@@ -8,11 +8,20 @@ NRC: 10067
 
 ## 1. OBJETIVOS:
 
-OBJETIVO GENERAL:
+OBJETIVOS GENERALES:
 
+-Diferenciar y conocer las características tanto de los resitores en serie como en paralelo.
 
+-Conocer y determinar las leyes de Kirchhoff tanto de voltaje como de corriente.
 
 OBJETIVOS ESPECÍFICOS:
+
+-Analizar las características de los circuitos en serie y en paralelo, para la comprensión de sus fórmulas y la 
+correcta resolución de los ejercicios.
+
+-Usar las leyes de Kirchhoff de manera correcta para la resolución de los ejercicios presentados.
+
+-Aplicar correctamente la fórmula de la ley de Ohm dentro de los circuitos en serie y en paralelo.
 
 ## 2. MARCO TEÓRICO:
 
@@ -427,10 +436,21 @@ así, cuál?
 
 ## 4. VIDEO:
 
-
+https://www.youtube.com/watch?v=yFGTrf_f9Ek
 
 ## 5. CONCLUSIONES:
 
+- Al haber estudiado las características de los circuitos en serie y en paralelo, podemos decir que dentro de un circuito
+en serie la corriente es constante  y el voltaje se divide, mientras que en un circuito en paralelo la corriente se divide 
+y el voltaje es igual en todo el circuito.
+
+- Mediante el uso correcto de las leyes de Kirchhoff se logró desarrollar de manera correcta cada uno de los ejercicios
+planteados, además se pudo aprender las leyes de voltaje y de corriente, donde la LVK nos dice que la sumatoria de voltajes 
+de la fuente es igual a la sumatoria de caídas de voltaje en un circuito, mientras que en la LCK podemos decir que la sumatoria
+de corrientes que entran es igual a la sumatoria de corrientes que salen.
+
+- Al aplicar correctamente la leyr de ohm podemos encontrar los valores de voltaje, corriente y resistencia en cada uno de los
+elementos pertenecientes al circuito.
 
 
 
