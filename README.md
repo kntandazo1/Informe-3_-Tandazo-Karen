@@ -10,18 +10,18 @@ NRC: 10067
 
 OBJETIVOS GENERALES:
 
--Diferenciar y conocer las características tanto de los resitores en serie como en paralelo.
+- Diferenciar y conocer las características tanto de los resitores en serie como en paralelo.
 
--Conocer y determinar las leyes de Kirchhoff tanto de voltaje como de corriente.
+- Conocer y determinar las leyes de Kirchhoff tanto de voltaje como de corriente.
 
 OBJETIVOS ESPECÍFICOS:
 
--Analizar las características de los circuitos en serie y en paralelo, para la comprensión de sus fórmulas y la 
+- Analizar las características de los circuitos en serie y en paralelo, para la comprensión de sus fórmulas y la 
 correcta resolución de los ejercicios.
 
--Usar las leyes de Kirchhoff de manera correcta para la resolución de los ejercicios presentados.
+- Usar las leyes de Kirchhoff de manera correcta para la resolución de los ejercicios presentados.
 
--Aplicar correctamente la fórmula de la ley de Ohm dentro de los circuitos en serie y en paralelo.
+- Aplicar correctamente la fórmula de la ley de Ohm dentro de los circuitos en serie y en paralelo.
 
 ## 2. MARCO TEÓRICO:
 
